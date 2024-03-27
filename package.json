@@ -1,0 +1,23 @@
+{
+  "name": "teste_software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euluizaribeiro/teste_software.git"
+  },
+  "author": "Ana Luiza Ribeiro da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euluizaribeiro/teste_software/issues"
+  },
+  "homepage": "https://github.com/euluizaribeiro/teste_software#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
